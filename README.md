@@ -1,11 +1,11 @@
-# Fire Detection App
+# Fire Extinguisher App
 
 This is a **Fire Detection App** that utilizes YOLOv5, a state-of-the-art object detection model, to detect fire in images and videos. The app is built using **Streamlit** for a seamless and interactive user experience.
 
 ## Features
 
-- **Image Detection:** Upload an image and detect fire regions.
-- **Video Detection:** Upload a video file for fire detection frame by frame.
+- **Image Detection:** Upload an image and detect Extinguisher regions.
+- **Video Detection:** Upload a video file for Extinguisher detection frame by frame.
 
 ## Tech Stack
 
