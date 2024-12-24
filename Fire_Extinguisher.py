@@ -63,7 +63,7 @@ if app_mode == 'Run on Image':
     output = np.squeeze(results.render())
     text.write(f"<h1 style='text-align: center; color:red;'>{length}</h1>",unsafe_allow_html = True)
     st.subheader("Output Image")
-    st.image(output,use_column_width=True)
+    st.image(output,use_container_width=True)
     
 if app_mode == 'Run on Video':
     st.subheader("Detected Fire:")
